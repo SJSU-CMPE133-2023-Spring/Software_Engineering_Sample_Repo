@@ -1,6 +1,6 @@
 # Project Title
 
-A brief description of what this project does and who it's for
+A brief(one line) description of what this project is and what it does.
 
 ## Table of Contents
 
